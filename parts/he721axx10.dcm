@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HE721Axx10
+D Miniture DIP Reed Relay, SPST-NO, coil suppression diode
+K Single Pole Reed Relay SPST
+F https://www.mouser.com/datasheet/2/240/Littelfuse_Reed_Relays_HE700_Datasheet_pdf-876874.pdf
+$ENDCMP
+#
+#End Doc Library
