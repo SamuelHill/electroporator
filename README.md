@@ -1,2 +1,3 @@
-# electroporator
- Various PCB designs for electroporators
+# Electroporators
+
+Various PCB designs for an electroporator
