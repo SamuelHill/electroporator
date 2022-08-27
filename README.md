@@ -91,6 +91,8 @@ Below are two of the implementations that went to be used in the Hill lab and ha
 
 #### IO Layout:
 
+This is also the look of the final system (sans LED). The pulse trigger is a tattoo gun pedal so the electrodes can be positioned and operated by the users hands while the trigger can be done with your feet.
+
 ![image](images/project-box-IO-layout-test.jpg)
 
 #### Power supply:
