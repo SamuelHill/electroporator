@@ -142,6 +142,8 @@ Cleaned up the lid wiring...
 
 <img src="images/project-box-final-clean-wiring.jpg" height="400"/>
 
+---
+
 ### Small project box
 
 <img src="images/mini-pcb-in-situ.jpg" height="400"/>
@@ -150,7 +152,7 @@ Cleaned up the lid wiring...
 
 <img src="images/mini-5v-convert.jpg" height="400"/>
 
-<img src="images/mini-power-supply-and-parts.jpg" height="550"/>
+<img src="images/mini-power-supply-and-parts.jpg" height="600"/>
 
 <img src="images/mini-final.jpg"/>
 
