@@ -4,7 +4,9 @@ Various PCB designs for a simple, versatile, and inexpensive electroporator. Ins
 
 > Electroporation is a useful technique to study gene function during development but its broad application is hampered due to the expensive equipment needed.
 
-While I agree with this and the rest of the paper largely, I believe the design set forth is both cluttered and unnecessarily complicated. This is mainly due to the use of a breadboard (or PCB breadboard), and given the current capabilities and price point of manufacturing a custom PCB this seems the obvious place to start for simplification. To that end, I designed a simple PCB that also contains much of the needed information for construction and operation on the silkscreen.
+While I agree with this and the rest of the paper largely, I believe the design set forth is both cluttered and unnecessarily complicated. This is mainly due to the use of a breadboard (or PCB breadboard), and given the current capabilities and price point of manufacturing a custom PCB this seems the obvious place to start for simplification. To that end, I designed a simple PCB that also contains much of the needed information for construction and operation on the silkscreen. After successfully implementing and using the v.0 system, I also designed and am working on implementing a handful of v.1 boards.
+
+The layout of this project is a series of nested KiCad projects for easy navigation within KiCad. To better show the functionality of the HE721A IC's - and add this product and footprint - I created a custom part (found in the parts folder). In the gerber folder is the compiled output of the v.0 board which has been printed, tested, and used successfully. As more of the designs are tested I will add more completed gerber files. The archive folder can be ignored as it just includes some attempts at having the LED output on the electrode side of the circuit. The v0 and v1 folders contain the designs for each version and v1 contains a number of modifications that are discussed later in this readme.
 
 ## Breadboard layout
 
@@ -171,3 +173,7 @@ Sponges (gemules adhered to some variety of 35mm glass bottom petri dish with a 
 <img src="images\sponges_electroporated_plasmid_expressing_GFP_1.jpeg" height="550"/>
 
 <img src="images\sponges_electroporated_plasmid_expressing_GFP.jpeg" height="550"/>
+
+## Future work
+
+Development of a SMT line of boards that can be both smaller and more cheaply assembled by the same sorts of PCB manufacturing facilities that allow for the cheaper custom PCBs used in this project. Many PCB production houses have assembly features wherein your board is not only printed but all available components are assembled onto the board for you. While through hole may be easier to do by hand, and is still needed for some IC's like the relay, SMT is cheaper to manufactur and assemble.
