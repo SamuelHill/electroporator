@@ -157,3 +157,17 @@ Cleaned up the lid wiring...
 <img src="images/mini-final.jpg"/>
 
 <img src="images/mini-final-1.jpg" height="550"/>
+
+## Results
+
+Using the large project box implementation in the lab with a set of adherent cell electrodes (pictured below):
+
+<img src="images\electrodes_used.jpeg" height="550"/>
+
+<img src="images\electrodes_in_use.jpeg" height="550"/>
+
+Sponges (gemules adhered to some variety of 35mm glass bottom petri dish with a micro-well and cover glass) successfully electroporated with plasmids expressing GFP:
+
+<img src="images\sponges_electroporated_plasmid_expressing_GFP_1.jpeg" height="550"/>
+
+<img src="images\sponges_electroporated_plasmid_expressing_GFP.jpeg" height="550"/>
