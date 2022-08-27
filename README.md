@@ -100,38 +100,46 @@ This is also the look of the final system (sans LED). The pulse trigger is a tat
 
 #### Power supply:
 
-<img src="images/project-box-power-supply-wiring.jpg" height="400"/>
+<img src="images/project-box-power-supply-wiring.jpg" width="400"/>
 
-<img src="images/project-box-power-supply-wiring-closeup.jpg" height="400"/>
+<img src="images/project-box-power-supply-wiring-closeup.jpg" width="400"/>
 
 Yellow & black for 5V, red and black for variable power output...
+
 <img src="images/project-box-power-dual-internal-voltages.jpg" height="400"/>
 
 #### Power IO:
 
 Includes the LED for indicating when the pulse occurs...
-<img src="images/project-box-power-IO-wiring.jpg" height="400"/>
+
+<img src="images/project-box-power-IO-wiring.jpg" height="450"/>
 
 IO with wires attached and organized...
-<img src="images/project-box-internal-IO-wiring.jpg" height="400"/>
+
+<img src="images/project-box-internal-IO-wiring.jpg" height="450"/>
 
 Power IO removed from lid for next step...
-<img src="images/project-box-internal-IO-wiring-1.jpg" height="400"/>
+
+<img src="images/project-box-internal-IO-wiring-1.jpg" height="450"/>
 
 #### PCB:
 
 <img src="images/electroporator-pcb.jpg" height="400"/>
 
 Power (5V and electrode variable), electrodes, and the electrode test button wiring...
+
 <img src="images/electroporator-pcb-major-wiring.jpg" height="400"/>
 
 Power switch, pulse duration potentiometer, and pulse LED indicator control wiring...
+
 <img src="images/electroporator-pcb-control-wiring.jpg" height="400"/>
 
 All PCB connections in place in box...
-<img src="images/electroporator-pcb-wired-in-situ.jpg" height="400"/>
+
+<img src="images/electroporator-pcb-wired-in-situ.jpg" height="450"/>
 
 Cleaned up the lid wiring...
+
 <img src="images/project-box-final-clean-wiring.jpg" height="400"/>
 
 ### Small project box
@@ -142,8 +150,8 @@ Cleaned up the lid wiring...
 
 <img src="images/mini-5v-convert.jpg" height="400"/>
 
-<img src="images/mini-power-supply-and-parts.jpg" height="400"/>
+<img src="images/mini-power-supply-and-parts.jpg" height="550"/>
 
-<img src="images/mini-final.jpg" height="400"/>
+<img src="images/mini-final.jpg"/>
 
-<img src="images/mini-final-1.jpg" height="400"/>
+<img src="images/mini-final-1.jpg" height="550"/>
